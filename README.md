@@ -1,4 +1,4 @@
-Welcome to the **Ramanand Institute Project** repository. This project is a fully responsive, real-world web application designed to represent the official website of *Ramanand Institute of Pharmacy, Management & Technology* in Haridwar, India. The website is created using **HTML, CSS**, and showcases key features of the institute including courses, departments, facilities, and login/signup functionality.
+Welcome to the **Engineering Institute Project** repository. This project is a fully responsive, real-world web application designed to represent the official website of *********************************** in *******, India. The website is created using **HTML, CSS**, and showcases key features of the institute including courses, departments, facilities, and login/signup functionality.
 
 ---
 
